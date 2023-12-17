@@ -7,6 +7,10 @@
   An aspiring data scientist from India
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZNAXNOR&amp;&amp;style=for-the-badge" align="center">
+</div>
+
 ---
 
 <!-- Socials -->
@@ -14,16 +18,38 @@
   Connect with me
 </h2>
 
+<p align = "center">  
+  
+  <a href="https://github.com/ZNAXNOR">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      alt="github">
+  </a>
+  
+  <a href="https://stackoverflow.com/users/20763759">
+    <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&amp;style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white"
+      alt="stackoverflow">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/omkar-dalvi-316b05244/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="linkedin"/>
+  </a>
+  
+</p>
+
+---
+
+<!-- Stack Stats -->
+<h2 align='center'>
+  Stack Exchange Sites
+</h2>
+
 <p align='center'>
   <a href="https://stackoverflow.com/users/20763759/znaxnor">
-    <img src="https://stackoverflow-badge.vercel.app/?userID=20763759" />        
-  </a>
-  &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/alexandresanlim/ttps://stackoverflow.com/users/10883380/visal-rajapakse">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
+  <img src="https://stackoverflow.com/users/flair/20763759.png?theme=clean"
+    width="208" height="58" alt="profile for ZNAXNOR at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
+    title="profile for ZNAXNOR at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </a> 
 </p>
 
 ---
@@ -34,14 +60,12 @@
 </h2>
 
 <p align='center'>
-  <a class="ms-3" href="#">
+  <a href="#">
     <img height="150em" alt="ZNAXNOR's github stats" src="https://github-readme-stats.vercel.app/api?username=ZNAXNOR&show_icons=true&count_private=true&theme=dark" />
   </a>
-  &nbsp;&nbsp;
   <a href="#">
     <img height="150em" alt="ZNAXNOR's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZNAXNOR&theme=dark" />
   </a>  
-  &nbsp;&nbsp;
   <a href="#">
     <img height="150em" alt="ZNAXNOR's straek" src="http://github-readme-streak-stats.herokuapp.com?user=ZNAXNOR&theme=dark&background=000000" />
   </a>
@@ -49,8 +73,6 @@
 </p>
 
 ---
-
-
 
 <!-- Skill Set -->
 <h2 align='center'>
