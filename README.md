@@ -3,11 +3,11 @@
   Hi there 👋 I'm Omkar 
 </h1>
 
-<p align='center'>
-  An aspiring data scientist from India
+<p>
+  Accomplished cloud computing specialist with a profound command of cloud infrastructure design, API integration, and scalable application development. Adept at leveraging advanced capabilities of AWS, Azure, and GCP to optimize resource utilization and deliver cost-efficient, high-performance solutions. Deeply committed to advancing technological innovation through artificial intelligence, machine learning, and blockchain, contributing to transformative organizational goals.
 </p>
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=ZNAXNOR&amp;&amp;style=for-the-badge" align="center">
 </div>
 
@@ -39,21 +39,6 @@
 
 ---
 
-<!-- Stack Stats -->
-<h2 align='center'>
-  Stack Exchange Sites
-</h2>
-
-<p align='center'>
-  <a href="https://stackoverflow.com/users/20763759/znaxnor">
-  <img src="https://stackoverflow.com/users/flair/20763759.png?theme=clean"
-    width="208" height="58" alt="profile for ZNAXNOR at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-    title="profile for ZNAXNOR at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-  </a> 
-</p>
-
----
-
 <!-- Github Stats -->
 <h2 align='center'>
   GitHub Stats
@@ -65,11 +50,7 @@
   </a>
   <a href="#">
     <img height="150em" alt="ZNAXNOR's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZNAXNOR&theme=dark" />
-  </a>  
-  <a href="#">
-    <img height="150em" alt="ZNAXNOR's straek" src="http://github-readme-streak-stats.herokuapp.com?user=ZNAXNOR&theme=dark&background=000000" />
-  </a>
-  
+  </a>    
 </p>
 
 ---
